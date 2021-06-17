@@ -13,6 +13,9 @@ Execute command to isntall relevant binding for test
 
 ### Execution
 
+Run test.bat from Selenium_PY folder
+
+
 ## API test
 ### Pre-requisite
 API test was created using Postman tool which has an integration with newman CLI tool
