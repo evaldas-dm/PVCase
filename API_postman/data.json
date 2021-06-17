@@ -1,0 +1,11 @@
+[
+  {
+    "user": "basic-secret"
+  },
+  {
+    "user": "confirmed-secret"
+  },
+    {
+    "user": "admin-secret"
+  }
+]
